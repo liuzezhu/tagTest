@@ -1,3 +1,7 @@
 <!--index.wxml-->
 <text class="content">你好,小程序
 </text>
+
+<!-- 假如项目第一个版本开发完成打一个tag -->
+<text>第一个tag</text>
+<text>tag01</text>
