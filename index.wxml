@@ -1,3 +1,5 @@
 <!--index.wxml-->
 <text class="content">你好,小程序
 </text>
+
+<text>第二次tag</text>
